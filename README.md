@@ -1,4 +1,6 @@
 # NYC Yellow Taxi Tip Amount Prediction Based on Hourly Weather Forecast
+![image](https://user-images.githubusercontent.com/80492691/144410448-7a1627d7-2279-4927-8c4b-9c26e7b4d6de.png)
+
 # Dependencies
 - Language: Python 3.9.5 & Apache Spark 3.1.2
 - Packages / Libraries: pandas, numpy, pyspark, sklearn, statsmodels, folium, matplotlib, seaborn
