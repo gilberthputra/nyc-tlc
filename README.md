@@ -1,9 +1,4 @@
-# MAST30034 Project 1 - Quantitative Analysis
-- Student Name: Gilbert Harlim Putra
-- Student ID: 1006990
-- Due Date: Friday 16th of August 11:59:00 am (AEST).
-- Report Link: https://www.overleaf.com/read/zwnszcbqpjkm
-- Report Word Count: LaTEX (2041) and Turnitin (2529) 
+# NYC Yellow Taxi Tip Amount Prediction Based on Hourly Weather Forecast
 # Dependencies
 - Language: Python 3.9.5 & Apache Spark 3.1.2
 - Packages / Libraries: pandas, numpy, pyspark, sklearn, statsmodels, folium, matplotlib, seaborn
