@@ -11,7 +11,7 @@ Further Analysis were done in `Report.pdf` not in the jupyter notebook! To read 
 
 # Dependencies
 - Language: Python 3.9.5 & Apache Spark 3.1.2
-- Packages / Libraries: pandas, numpy, pyspark, sklearn, statsmodels, folium, matplotlib, seaborn
+- Packages / Libraries: pandas, numpy, pyspark, sklearn, statsmodels, folium, matplotlib, seaborn, geopandas
 
 # Datasets
 - NYC TLC : https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
